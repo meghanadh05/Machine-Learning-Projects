@@ -1,4 +1,4 @@
-# Machine Learning Projects Portfolio
+#Fundamental Machine Learning Projects
 
 Welcome! This repository is a collection of the machine learning projects I have been working on. Each project includes the source code, dataset information, and a summary of the approach and results.
 
